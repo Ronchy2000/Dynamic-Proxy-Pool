@@ -1,4 +1,4 @@
-# 🌐 Mihomo IP Rotator
+# 🌐 Dynamic Proxy Pool
 
 基于 Mihomo 的动态 IP 切换系统，适用于网页爬虫、流量提升（CSDN/GitHub/博客）、数据采集等场景。
 
